@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name: defrecord
 # --
 (defrecord ${1:Name} [${2:fields}]
