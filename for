@@ -2,6 +2,6 @@
 # name: for
 # --
 (for [${1:value} ${2:range}${3:
-      :let [${5:symbol} ${6:expr}]}${7:
-      :when ${8:conditional}}]
-  ${9:exprs})
+      :let [${4:symbol} ${5:expr}]}${6:
+      :when ${7:conditional}}]
+  ${8:expr})
