@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-# name: re-s
-# --
-(re-seq #"${1:regex}" ${2:string})

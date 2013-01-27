@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-# name: re-f
-# --
-(re-find #"${1:regex}" ${2:string})

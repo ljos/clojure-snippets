@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-# name: re-m
-# --
-(re-matches #"${1:regex}" ${2:string})
