@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+#name: defprotocol
+# --
+(defprotocol ${1:Name}
+  $0)
